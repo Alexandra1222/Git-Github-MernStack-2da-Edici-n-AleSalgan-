@@ -22,6 +22,12 @@ function main(){
             getCountryTranslatedName('ARG','it'),
             '\n');
     
+    console.log(
+            '////ejercicio 3 ////\n',
+            getCountriesBySubregion('South America'),
+           '\n');
+    
+    
 
 }
 
