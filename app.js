@@ -16,7 +16,12 @@ function main(){
         getCountryByIso3('ARG'),
         '\n');
 
-
+    
+    console.log(
+            '////ejercicio 2 ////\n',
+            getCountryTranslatedName('ARG','it'),
+            '\n');
+    
 
 }
 
